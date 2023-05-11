@@ -11,3 +11,13 @@ The website for the paper is "https://www.sciencedirect.com/science/article/pii/
 The dataset acquisition link is "https://pan.baidu.com/s/1LXx21JAjvpdqyNGu7niH3g", the extraction code is "JLUc ".
 
 ## Citaion
+You can cite our paper using:
+@article{guo2023fusion,
+  title={A fusion estimation of the peak tire--road friction coefficient based on road images and dynamic information},
+  author={Guo, Hongyan and Zhao, Xu and Liu, Jun and Dai, Qikun and Liu, Hui and Chen, Hong},
+  journal={Mechanical Systems and Signal Processing},
+  volume={189},
+  pages={110029},
+  year={2023},
+  publisher={Elsevier}
+}
