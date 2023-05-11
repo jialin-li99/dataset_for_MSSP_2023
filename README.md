@@ -6,3 +6,6 @@ The corresponding paper for this repository is "A fusion estimation of tire-road
 The structure of the estimation method:
 ![The structure of the paper](https://github.com/jialin-li99/dataset_for_MSSP_2023/blob/main/architecture.jpg)
 The website for the paper is "https://www.sciencedirect.com/science/article/pii/S0888327022010974?via%3Dihub"
+
+# Dataset acquisition
+The dataset acquisition link is "https://pan.baidu.com/s/1LXx21JAjvpdqyNGu7niH3g", the extraction code is "JLUc ".
